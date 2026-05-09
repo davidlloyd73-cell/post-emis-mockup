@@ -4,7 +4,7 @@ An animated, single-file HTML rebuild of the post-EMIS / patient-vault EMR
 mockup that accompanies the position paper *"AI is making the GP EMR
 monopoly obsolete"* (Lloyd, May 2026).
 
-**Live demo:** _add your Netlify URL here once deployed_
+**Live demo:** https://post-emis-mockup.netlify.app/
 
 The animation walks through one episode of care to illustrate the
 four-layer architecture proposed in the paper:
